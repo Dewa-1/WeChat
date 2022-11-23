@@ -7,7 +7,9 @@ You can connect through many users using this app . All the users can chat at co
 Backend
 Server: Nodejs
 real-time-web-application: Socket.io
-Fontend
+
+
+Frontend
 HTML
 CSS
 JAVASCRIPT
